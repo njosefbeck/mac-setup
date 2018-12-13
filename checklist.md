@@ -48,12 +48,52 @@
   - [ ] Add Japanese keyboard
   
 ## Applications
-
+- [ ] App Store
+  - [ ] Xcode
+  - [ ] The Unarchiver
+  - [ ] Encrypto (?)
+- [ ] Browsers
+  - [ ] Chrome
+    - [ ] Set as default
+    - [ ] Log in to sync bookmarks and extensions
+  - [ ] Firefox
+  - [ ] Brave
+- [ ] Other
+  - [ ] ProtonVPN
+  - [ ] 1Password
+  - [ ] Transmission
+  - [ ] Transmit
+    - [ ] Re-add key
+  - [ ] Alfred 3
+    - [ ] Sync preferences
+    - [ ] Set up theme
+  - [ ] ImageOptim
+  - [ ] iTerm2
+  - [ ] Skype
+  - [ ] Sublime Text
+  - [ ] Flux
+  - [ ] VLC
+  
 ## CLI
+- [ ] Xcode -> Install command line tools
+- [ ] Install Homebrew
+- [ ] Install latest git version
+- [ ] Load `.gitconfig` contents into global `~/.gitconfig`
+- [ ] Load `.gitignore_global`
+- [ ] Install oh my zsh
+  - [ ] Load `.zshrc`
+  - [ ] Install [Cobalt2 theme](https://github.com/wesbos/Cobalt2-iterm) for iTerm and ZSH
+- [ ] Install NVM/Node
+  - [ ] Install nvm
+  - [ ] Download latest Node via nvm (`nvm install node`)
+  - [ ] Make it the global version of Node (`nvm alias default <version>`)
 
 ## Sublime Text
+- [ ] Install [Cobalt2 theme](https://packagecontrol.io/packages/Theme%20-%20Cobalt2)
 
 ## GitHub
+- [ ] [Generate new SSH key](https://help.github.com/articles/generating-an-ssh-key/)
+- [ ] [Generate an access token](https://help.github.com/articles/creating-an-access-token-for-command-line-use/) for Terminal to auth your GitHub account when 2FA is enabled.
 
 ## Backup
 - [ ] Configure TimeMachine and perform initial backup

@@ -17,7 +17,6 @@
 - [ ] Clock
   - [ ] Show date
   - [ ] Show seconds
-  - [ ] Flash separators?
 - [ ] Battery
   - [ ] Show percentage
 - [ ] Finder
@@ -40,64 +39,60 @@
 - [ ] Security
   - [ ] Turn on FileVault disk encryption
   - [ ] Set to require password immediately
-  - [ ] Turn on Firewall (?)
 - [ ] App Store
-  - [ ] Free: Save download (?)
-- [ ] Keyboards
-  - [ ] Ensure that alt + char = accented char
-  - [ ] Add Japanese keyboard
+  - [ ] Download apps
   
 ## Applications
 - [ ] App Store
   - [ ] Xcode
+  - [ ] Postico (have subscription)
   - [ ] The Unarchiver
-  - [ ] Encrypto (?)
 - [ ] Browsers
   - [ ] Chrome
     - [ ] Set as default
     - [ ] Log in to sync bookmarks and extensions
   - [ ] Firefox
   - [ ] Brave
+  - [ ] Edge
 - [ ] Other
-  - [ ] ProtonVPN
   - [ ] 1Password
-  - [ ] Transmission
+   - [ ] If for work, set up new Vault
   - [ ] Transmit
     - [ ] Re-add key
-  - [ ] Alfred 3
-    - [ ] Sync preferences
-    - [ ] Set up theme
+  - [ ] Spotlight
+    - [ ] Set up keyboard shortcut for CMD + /
   - [ ] ImageOptim
   - [ ] iTerm2
   - [ ] Skype
-  - [ ] Sublime Text
+  - [ ] VSCode
+    - [ ] Install Turquoise Wave theme
+    - [ ] Install ESLint plugin
+    - [ ] Ensure tab size = 2, and insert spaces when pressing tab (Settings)
   - [ ] Flux
   - [ ] VLC
+  - [ ] Paw
+  - [ ] Discord
+  - [ ] Slack
   
 ## CLI
 - [ ] Xcode -> Install command line tools
 - [ ] Install Homebrew
 - [ ] Install latest git version
-- [ ] Load `.gitconfig` contents into global `~/.gitconfig`
+- [ ] Load `.gitconfig` contents into global `~/.gitconfig` (user.name, user.email)
 - [ ] Load `.gitignore_global`
+- [ ] Set up VSCode to work with CLI (code . command)
 - [ ] Install oh my zsh
   - [ ] Load `.zshrc`
   - [ ] Install [Cobalt2 theme](https://github.com/wesbos/Cobalt2-iterm) for iTerm and ZSH
 - [ ] Install NVM/Node
-  - [ ] Install nvm
+  - [ ] Install NVM
   - [ ] Download latest Node via nvm (`nvm install node`)
+  - [ ] Download lastest LTS Node as well
   - [ ] Make it the global version of Node (`nvm alias default <version>`)
-
-## Sublime Text
-- [ ] Install [Cobalt2 theme](https://packagecontrol.io/packages/Theme%20-%20Cobalt2)
 
 ## GitHub
 - [ ] [Generate new SSH key](https://help.github.com/articles/generating-an-ssh-key/)
 - [ ] [Generate an access token](https://help.github.com/articles/creating-an-access-token-for-command-line-use/) for Terminal to auth your GitHub account when 2FA is enabled.
-
-## Backup
-- [ ] Configure TimeMachine and perform initial backup
-  - [ ] Turn off, and set Cal reminder to perform manually each week
 
 ## Misc
 - [ ] Download music from Apple Music
